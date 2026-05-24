@@ -123,10 +123,12 @@ Clears:
 Designed for students, coffee lovers, and users who want a fun way to track caffeine intake and explore coffee recommendations.
 
 ---
-
 ## Representative Features
 
 ☕ Mood-based recommendations  
+
 ✧(•̀ᴗ•́) Caffeine tracking  
+
 ヽ(●´∀`●)ﾉ Coffee logging  
+
 (๑´ㅂ`๑) Cozy user experience
