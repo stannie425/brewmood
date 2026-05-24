@@ -1,5 +1,9 @@
 # BrewMood ☕
+<p align="center">
 
+  <img src="brewmood.png" width="450">
+
+</p>
 A mood-based coffee recommendation and caffeine tracking program built with Python.
 
 ---
